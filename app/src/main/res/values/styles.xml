@@ -1,0 +1,35 @@
+<resources>
+
+  <!-- Base application theme. -->
+  <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+    <!-- Customize your theme here. -->
+    <item name="colorPrimary">@color/colorPrimary</item>
+    <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+    <item name="colorAccent">@color/colorAccent</item>
+  </style>
+
+  <declare-styleable name="DiffusionView">
+    <!--中心圓顏色-->
+    <attr name="diffusion_center_color" format="color" />
+    <!--中心圓半徑-->
+    <attr name="diffusion_radius" format="integer" />
+    <!--擴散圓顏色-->
+    <attr name="diffusion_spread_color" format="color" />
+    <!--擴散間距-->
+    <attr name="diffusion_distance" format="integer" />
+    <!--擴散最大半徑-->
+    <attr name="diffusion_max_radius" format="integer" />
+    <!--擴散延遲間隔-->
+    <attr name="diffusion_delay_milliseconds" format="integer" />
+  </declare-styleable>
+
+  <declare-styleable name="WaterRippleView">
+    <attr name="rippleSpacing" format="dimension|reference"/>
+    <attr name="rippleCount" format="integer|reference"/>
+    <attr name="rippleColor" format="color|reference"/>
+    <attr name="rippleCenterIcon" format="reference"/>
+    <attr name="rippleAutoRunning" format="boolean"/>
+  </declare-styleable>
+
+
+</resources>

@@ -1,0 +1,241 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="main_color">#FFFFD371</color>
+    <color name="main_color_disable">#66FFD371</color>
+
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="mx3_black">#FF000000</color>
+    <color name="mx3_background">#1D1D1D</color>
+
+    <color name="mx3_dialog_view_cancel_background">#FFe2e2e2</color>
+    <color name="mx3_main_color">#FFD371</color>
+    <color name="mx3_main_color_disable">#66FFD371</color>
+    <color name="mx3_sub_color">#FFD272</color>
+
+    <color name="text_000000">#000000</color>
+    <color name="text_222222">#222222</color>
+    <color name="text_702222">#70222222</color>
+    <color name="text_282828">#282828</color>
+    <color name="text_2B2B2B">#2B2B2B</color>
+    <color name="text_333333">#333333</color>
+    <color name="text_444444">#444444</color>
+    <color name="text_666666">#666666</color>
+    <color name="text_724A0D">#724A0D</color>
+    <color name="text_999999">#999999</color>
+    <color name="text_B6B6B6">#B6B6B6</color>
+    <color name="text_CCCCCC">#CCCCCC</color>
+    <color name="text_DDDDDD">#DDDDDD</color>
+    <color name="text_FFFFFF">#FFFFFF</color>
+    <color name="text_6DD400">#6DD400</color>
+    <color name="text_disable_666666">#666666</color>
+    <color name="text_hint_666666">#666666</color>
+    <color name="text_111111">#111111</color>
+
+    <color name="toast_content">#FFFFFFFF</color>
+    <color name="toast_background">#88333333</color>
+    <color name="toast_icon_content">#FFDDDDDD</color>
+    <color name="toolbar_title">#FFFFFFFF</color>
+    <color name="toolbar_bg">#FF2B2B2B</color>
+    <color name="transparent">#00000000</color>
+    <color name="mx3_select_background">#ff2a2a2a</color>
+    <color name="viewpager_background">#2A2A2A</color>
+
+    <color name="bg_202020">#202020</color>
+    <color name="bg_2B2B2B">#2B2B2B</color>
+    <color name="bg_222222">#222222</color>
+    <color name="bg_666666">#666666</color>
+    <color name="bg_242424">#242424</color>
+    <color name="bg_252525">#252525</color>
+    <color name="bg_FFFFFF">#FFFFFF</color>
+
+    <color name="divider_282828">#282828</color>
+    <color name="divider_1D1D1D">#1D1D1D</color>
+    <color name="divider_202020">#202020</color>
+    <color name="divider_2B2B2B">#2B2B2B</color>
+    <color name="divider_2F2F2F">#2F2F2F</color>
+    <color name="divider_333333">#333333</color>
+    <color name="divider_683434">#683434</color>
+    <color name="divider_A18253">#A18253</color>
+    <color name="divider_E3CAA0">#E3CAA0</color>
+    <color name="divider_B39047">#B39047</color>
+
+    <color name="button_text_000000">#000000</color>
+
+    <!--Cover Page color-->
+    <color name="cover_page_introduction_color">#FFDDDDDD</color>
+
+    <!--Cover Page color-->
+    <color name="color_login_activity_background">#FF000000</color>
+
+    <!--Widget color-->
+    <color name="color_error_red">#FFF35454</color>
+    <color name="color_widget_background">#FF000000</color>
+    <color name="color_passwordToggle">#FF666666</color>
+    <color name="color_widget_editText_hint">#FF666666</color>
+    <color name="verification_text_disable">#FF666666</color>
+
+    <!--Login page color-->
+    <color name="color_login_text_welcome">#FFFFFFFF</color>
+    <color name="color_login_text_login">#FF000000</color>
+    <color name="color_login_text_forget_password">#FF999999</color>
+
+    <!--ForgetPwd page color-->
+    <color name="color_forget_pwd_background">#FF000000</color>
+
+    <color name="enterprise_color">#FFFDEFD6</color>
+    <color name="fitness_light_gray">#61000000</color>
+
+    <!--ProfileFragment color-->
+    <color name="color_profile_fragment_background">#FF1D1D1D</color>
+    <color name="color_profile_fragment_action_bar_title">#FFFFFFFF</color>
+    <color name="color_profile_account_name">#FFFFFFFF</color>
+
+    <!--Security Center color-->
+    <color name="mx3_white">#FFFFFFFF</color>
+
+    <!--IM color-->
+    <color name="im_queue_number">#FFF34545</color>
+    <color name="im_login_background">#FF202020</color>
+    <color name="im_text_hint">#FF666666</color>
+    <color name="im_text">#FFDDDDDD</color>
+    <color name="im_info_text">#FF999999</color>
+
+    <color name="im_login_edit_colorControl">#FF2B2B2B</color>
+
+    <color name="im_service_assistant_change">#FFF34545</color>
+    <color name="im_service_assistant_background">#FF1D1D1D</color>
+    <color name="im_service_assistant_guess">#FFFFFFFF</color>
+    <color name="im_service_assistant_item_child">#FF666666</color>
+
+    <color name="im_question_background">#FF202020</color>
+    <color name="im_question_divide">#FF333333</color>
+    <color name="im_question_title">#FFDDDDDD</color>
+    <color name="im_question_text">#FF999999</color>
+
+    <color name="im_artificial_dialog_background">#FF202020</color>
+    <color name="im_artificial_dialog_cancel">#FF999999</color>
+    <color name="im_artificial_dialog_item">#FF666666</color>
+    <color name="im_artificial_dialog_selected_background">#FF252525</color>
+
+    <color name="im_background">#FF1D1D1D</color>
+
+    <color name="im_chat_button_background">#FF212121</color>
+    <color name="im_divider">#FF2B2B2B</color>
+    <color name="im_chat_edit_background">#FF292929</color>
+    <color name="im_chat_edit_background_disable">#FF292929</color>
+    <color name="im_chat_other_text">#FF999999</color>
+
+    <color name="im_send_background_disable">#66E2BA7E</color>
+    <color name="im_send_background_pressed">#C98900</color>
+    <color name="im_send_content">#FF000000</color>
+
+    <color name="im_chat_item_notice_background">#FF2B2B2B</color>
+    <color name="im_chat_item_notice_content">#FF999999</color>
+
+    <color name="im_chat_item_receive_info">#FF999999</color>
+    <color name="im_chat_item_receive_background">#FF252525</color>
+
+    <color name="im_chat_item_send_content">#FF000000</color>
+
+    <color name="im_chat_audio_background">#FF212121</color>
+    <color name="im_chat_audio_background_corner">#FF666666</color>
+    <color name="im_chat_audio_background_pressed">#FF333333</color>
+    <color name="im_chat_audio_content">#FF999999</color>
+    <color name="im_chat_audio_tip">#FFDDDDDD</color>
+    <color name="im_chat_audio_cancel">#88F34545</color>
+    <color name="im_chat_audio_speaker">#88333333</color>
+    <color name="im_chat_audio_un_read">#FFF34545</color>
+
+    <color name="im_chat_clean_dialog_background">#FF202020</color>
+    <color name="im_chat_clean_dialog_divider">#FF2B2B2B</color>
+    <color name="im_chat_clean_dialog_big_divider">#FF1D1D1D</color>
+    <color name="im_chat_clean_dialog_clean_content">#FFF34545</color>
+
+    <color name="im_chat_evaluate_service_background">#FF1D1D1D</color>
+    <color name="im_evaluate_service_rating_bar_background">#FF666666</color>
+    <color name="im_evaluate_service_flag">#FF666666</color>
+    <color name="im_evaluate_service_edit_background">#FF2B2B2B</color>
+
+    <color name="im_work_order_title">#FF999999</color>
+    <color name="im_work_order_point">#FFF34545</color>
+    <color name="im_work_order_edit_content">#FF212121</color>
+    <!--IM color-->
+
+    <color name="color_deposit_tab_title">#999999</color>
+    <color name="color_deposit_tab_title_select">#E2BA7E</color>
+    <color name="color_main_tab_text">#444444</color>
+
+    <color name="color_tab_normal">#2B2B2B</color>
+    <color name="color_login_editText_text">#FFFFFFFF</color>
+    <color name="color_login_editText_hint">#FF666666</color>
+    <color name="color_login_editText_error">#FFF35454</color>
+
+    <color name="color_registered_free_registered">#FFFFFFFF</color>
+    <color name="color_registered_account_name">#FF666666</color>
+    <color name="color_registered_account_password">#FF666666</color>
+    <color name="color_registered_verification_code">#FF666666</color>
+    <color name="color_registered_editText_text">#FFFFFFFF</color>
+    <color name="color_registered_editText_hint">#FF666666</color>
+    <color name="color_registered_protocol">#FF999999</color>
+    <color name="color_registered_text_registered">#FF000000</color>
+    <color name="color_registered_text_success">#FFCCCCCC</color>
+    <color name="color_registered_text_open_fast_fingerprint_login">#FFCCCCCC</color>
+    <color name="color_registered_text_start_fast_fingerprint_login">#FF000000</color>
+    <color name="color_registered_text_on_security_center_start">#FF666666</color>
+
+
+    <!--Game Color-->
+    <color name="color_home_title">#2B2B2B</color>
+    <color name="color_game_category_unchecked">#999999</color>
+    <color name="color_game_badge_unchecked">#dddddd</color>
+
+    <!-- Agent -->
+    <color name="agent_title">#FFFFFF</color>
+    <color name="agent_text">#999999</color>
+    <color name="agent_alert">#F34545</color>
+
+    <color name="agent_apply_title">#999999</color>
+    <color name="agent_apply_edit_background">#212121</color>
+    <color name="agent_apply_edit_text">#DDDDDD</color>
+    <color name="agent_apply_edit_hint">#666666</color>
+    <color name="agent_apply_checkbox_tint">#E2BA7E</color>
+    <color name="apply_success_background">#FF252525</color>
+
+    <color name="apply_success_title">#DDDDDD</color>
+    <color name="apply_success_text">#666666</color>
+    <color name="confirm_save_background_disable">#66E2BA7E</color>
+    <color name="button_text">#000000</color>
+    <color name="send_background_disable">#66E2BA7E</color>
+
+    <color name="user_icon_default">#444444</color>
+
+    <color name="verification_edit_text">#FFFFFFFF</color>
+    <color name="verification_edit_hint">#FF666666</color>
+
+    <color name="security_center_text">#FFFFFFFF</color>
+    <color name="security_center_hint">#FF666666</color>
+
+    <!--投注記錄-->
+    <color name="color_betting_win">#6C5D46</color>
+    <color name="color_betting_unsettlement">#374A6E</color>
+    <color name="color_betting_lose">#683434</color>
+    <color name="color_betting_flat">#4F4F4F</color>
+    <color name="color_tab_title">#242424</color>
+    <color name="color_line">#282828</color>
+
+    <!-- 投注器 -->
+    <color name="color_bet_slip_000000">#B3000000</color>
+    <color name="color_bet_slip_252525">#FF252525</color>
+    <color name="color_bet_slip_292929">#FF292929</color>
+    <color name="color_bet_slip_2B2B2B">#FF2B2B2B</color>
+    <color name="color_bet_slip_2D2D2D">#FF2D2D2D</color>
+    <color name="color_bet_slip_2F2F2F">#FF2F2F2F</color>
+    <color name="color_bet_slip_333333">#FF333333</color>
+    <color name="color_bet_slip_666666">#FF666666</color>
+    <color name="color_bet_slip_999999">#FF999999</color>
+    <color name="color_bet_slip_CDA85B">#FFCDA85B</color>
+    <color name="color_bet_slip_DDDDDD">#FFDDDDDD</color>
+    <color name="color_bet_slip_F35454">#FFF35454</color>
+</resources>
