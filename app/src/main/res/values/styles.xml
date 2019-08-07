@@ -9,6 +9,8 @@
   </style>
 
   <declare-styleable name="DiffusionView">
+    <!--向外或向內擴散-->
+    <attr name="diffusion_type" format="integer" />
     <!--中心圓顏色-->
     <attr name="diffusion_center_color" format="color" />
     <!--中心圓半徑-->
